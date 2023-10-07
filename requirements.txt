@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+chardet==5.2.0
+Pillow==10.0.1
+Pillow==10.0.1
+psutil==5.9.5
+pystray==0.19.5
+Requests==2.31.0
+tinydb==4.8.0
+win32gui==221.6
